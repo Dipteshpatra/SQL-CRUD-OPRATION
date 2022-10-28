@@ -1,0 +1,8 @@
+C:\Projects\SqlCRUDOP\SqlCRUDOP\bin\Debug\SqlCRUDOP.exe.config
+C:\Projects\SqlCRUDOP\SqlCRUDOP\bin\Debug\SqlCRUDOP.exe
+C:\Projects\SqlCRUDOP\SqlCRUDOP\bin\Debug\SqlCRUDOP.pdb
+C:\Projects\SqlCRUDOP\SqlCRUDOP\obj\Debug\SqlCRUDOP.csproj.AssemblyReference.cache
+C:\Projects\SqlCRUDOP\SqlCRUDOP\obj\Debug\SqlCRUDOP.csproj.SuggestedBindingRedirects.cache
+C:\Projects\SqlCRUDOP\SqlCRUDOP\obj\Debug\SqlCRUDOP.csproj.CoreCompileInputs.cache
+C:\Projects\SqlCRUDOP\SqlCRUDOP\obj\Debug\SqlCRUDOP.exe
+C:\Projects\SqlCRUDOP\SqlCRUDOP\obj\Debug\SqlCRUDOP.pdb
